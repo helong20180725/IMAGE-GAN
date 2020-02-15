@@ -1,3 +1,9 @@
+
 function setName(name:string){
 	this.name = name;
 }
+
+function getName(){
+	this.name;
+	}
+
