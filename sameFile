@@ -6,4 +6,8 @@ function setName(name:string){
 function getName(){
 	this.name;
 	}
+function samefunction(){
 
+	let a: string = "ddd";
+	a = "aaa";
+}
