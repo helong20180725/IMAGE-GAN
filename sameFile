@@ -9,5 +9,7 @@ function getName(){
 function samefunction(){
 
 	let a: string = "ddd";
+	E == F;
+	if(rrr);
 	a = "aaa";
 }
