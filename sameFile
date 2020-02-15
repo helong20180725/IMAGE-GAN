@@ -9,5 +9,7 @@ function getName(){
 function samefunction(){
 
 	let a: string = "ddd";
-	a = "aaa";
+	let b: string = "bbbb";
+	b = "asdf";
+a = "aaa";
 }
