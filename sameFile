@@ -12,4 +12,7 @@ function samefunction(){
 	E == F;
 	if(rrr);
 	a = "aaa";
+	let b: string = "bbbb";
+	b = "asdf";
+a = "aaa";
 }
