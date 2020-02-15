@@ -1,0 +1,3 @@
+function setName(name:string){
+	this.name = name;
+}
